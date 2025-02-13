@@ -242,3 +242,6 @@ int event_wait(termuxdc_event *event) {
     }
     return -1;
 }
+native_handle_t *get_native_handler(){
+
+}
