@@ -1,4 +1,4 @@
-ame: Attach Debug APKs To Release
+name: Attach Debug APKs To Release
 
 on:
   workflow_dispatch:
